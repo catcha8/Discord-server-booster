@@ -8,8 +8,7 @@
 </p
 
 ```
-Tokens need to have nitro
-Tokens need to be on the Server
+Tokens need to have nitro and need to be on the Server
 ```
 
 How to run:
