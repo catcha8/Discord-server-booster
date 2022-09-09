@@ -7,7 +7,8 @@
 <a href="https://www.youtube.com/channel/UCoNVWCMYp8Fs50wPeefw_7A">Youtube Channel</a></h2>
 </p
 
-`Need boosted tokens`
+`Tokens need to have nitro
+Tokens need to be on the Server`
 
 How to run:
 ```
