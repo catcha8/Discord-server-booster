@@ -3,7 +3,7 @@ os.system("cls")
 
 
 sub_ids = []
-guild_id = input("Guild ID: ")
+guild_id = input("Guild ID:951183240180412516 ")
 
 def get_x_properties():
     data = {
