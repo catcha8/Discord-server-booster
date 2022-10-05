@@ -2,6 +2,9 @@
 
 <h1><a href="https://www.tiktok.com/@nsl.dev/video/7141125149654256923?is_from_webapp=1&sender_device=pc&web_id=7117334792081442309">Tuto Here</a></h1>
 
+<h1>Requests part was made by Qoft</h1>
+
+
 <p align="center">
 <strong>Star and follows me <3</strong>
 <a href="https://www.youtube.com/channel/UCoNVWCMYp8Fs50wPeefw_7A">Youtube Channel</a></h2>
