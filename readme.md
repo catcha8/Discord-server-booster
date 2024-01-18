@@ -2,8 +2,6 @@
 
 <h1><a href="https://discord.com/invite/hktVzrff54">Tuto Here</a></h1>
 
-<h1>Requests part was made by Qoft</h1>
-
 
 <p align="center">
 <strong>Star and follows me <3</strong>
